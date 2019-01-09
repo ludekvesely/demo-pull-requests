@@ -1,2 +1,3 @@
-# demo-pull-requests
-Demo repository
+# Demo - Pull Requests
+
+This is demo repository.
