@@ -2,4 +2,4 @@
 
 This is demo repository.
 
-> Hello word!
+> Hello world! 🙂
